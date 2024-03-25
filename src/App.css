@@ -1,0 +1,204 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* .lijob {
+  display: flex;
+  align-items: center;
+}
+.jobli {
+  background-color: #64748b;
+  color: #ffffff;
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.profileicon {
+  height: 90px;
+  width: 90px;
+  margin-right: 10px;
+}
+.ph {
+  font-size: 20px;
+  color: #272727;
+}
+.j-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  text-decoration: none;
+}
+.nojob-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.nojobs {
+  height: 200px;
+  width: 300px;
+}
+.icon {
+  background-color: aquamarine;
+}
+.search-container {
+  width: 60%;
+  border: 2px solid #ffffff;
+  display: flex;
+  padding: 5px;
+}
+.inputelement {
+  border: none;
+  color: #ffffff;
+  outline: none;
+  width: 100%;
+  background-color: transparent;
+}
+.job5 {
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  margin-left: 20px;
+}
+.emli {
+  display: flex;
+}
+.empul {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  color: #ffffff;
+}
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #272727;
+  min-height: 100vh;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #64748b;
+  width: 60%;
+  padding: 20px;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+}
+.websitelogo {
+  height: 90px;
+  width: 150px;
+  margin: 25px;
+}
+.username-label {
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.username-input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+.btn {
+  margin-top: 10px;
+  background-color: blue;
+  color: #ffffff;
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+.logo {
+  height: 40px;
+  width: 100px;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  height: 20%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: #64748b;
+}
+.bottom-container {
+  padding: 15px;
+}
+.h {
+  color: #ffffff;
+}
+.top-btn {
+  margin-right: 10px;
+}
+.ulel {
+  display: flex;
+  list-style-type: none;
+}
+.job-container {
+  display: flex;
+  flex-direction: flex;
+  min-height: 100vh;
+  background-color: #272727;
+  background-size: cover;
+  padding: 10px;
+}
+.job1 {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  margin-right: 10px;
+}
+.job2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.profile {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 200px;
+  border-radius: 10px;
+}
+.nonprofile {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border-radius: 10px;
+}
+.hr {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+} */
